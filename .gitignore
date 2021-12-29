@@ -3,3 +3,4 @@ design_patterns.iml
 .idea/
 /.gradle/
 logs
+/lab.iml
